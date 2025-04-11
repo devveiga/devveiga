@@ -1,6 +1,6 @@
 
-# Hi! My name is Vitor Veiga! 😀 
-## My social medias! 
+## Hi! My name is Vitor Veiga! 😀 
+### My social medias! 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vidroxis/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
@@ -8,13 +8,11 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devveiga&show_icons=true&theme=transparent)
 
-### let me introduce myself: I'm 19 years old, I'm currently studying systems analysis and development at UNISENAC University 3/6. I currently work at VSINFO SISTEMAS as a software support analyst.
 
-### Since my first contact with games when i was 8 years old, I have always been fascinated by the commands/codes that we can use to access particularities within the game. An example that struck me was the "time_set_0 or time_set_1" command in Minecraft, in which we could change the weather conditions, whereas in normal game use we could not do so.
 
-### Since then, i've been learning about programming languages and programming logic, with intention of find create solutions for any issues that i may have.  
-
-### My skills: 
+#### I'm 19 years old and currently studying Systems Analysis and Development at UNISENAC (3rd out of 6 semesters). I work at VSINFO SISTEMAS as a Software Support Analyst.
+#### My interest in technology started early — ever since I played my first games at age 8, I've been fascinated by the idea of using commands and code to interact with systems in unique ways. One command that really inspired me was "time set " in Minecraft, which let me change the game’s environment in ways that weren't possible through normal gameplay.
+#### Since then, I’ve been diving into programming languages and logic, always aiming to build solutions for everyday problems and explore how things work under the hood.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
