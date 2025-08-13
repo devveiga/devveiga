@@ -9,7 +9,7 @@
 
 
 
-#### I'm 19 years old and currently studying Systems Analysis and Development at UNISENAC (3rd out of 6 semesters). I work at VSINFO SISTEMAS as a Software Support Analyst.
+#### I'm 19 years old and currently studying Systems Analysis and Development at UNISENAC (4rd out of 6 semesters). I work at VSINFO SISTEMAS as a Software Support Analyst.
 #### My interest in technology started early — ever since I played my first games at age 8, I've been fascinated by the idea of using commands and code to interact with systems in unique ways. One command that really inspired me was "time set" in Minecraft, which let me change the game’s environment in ways that weren't possible through normal gameplay.
 #### Since then, I’ve been diving into programming languages and logic, always aiming to build solutions for everyday problems and explore how things work under the hood.
 
