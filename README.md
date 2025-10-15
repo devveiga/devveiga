@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vidroxis/) 
 ## WebPortfolio: https://portfolio-tau-pink-68.vercel.app/
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devveiga&show_icons=true&theme=transparent)
+![devveiga's Stats](https://github-readme-stats.vercel.app/api?username=devveiga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
 
