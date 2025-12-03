@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Analytics  
 <div align="center">
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=devveiga" width="120" /></a>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=devveiga" width="320" /></a>
   <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=devveiga" width="520" /></a>
   
 </div>
