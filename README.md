@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Analytics  
 <div align="center">
-  ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=devveiga
-  ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=devveiga
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=devveiga" width="520" /></a>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=devveiga" width="520" /></a>
   
 </div>
 
